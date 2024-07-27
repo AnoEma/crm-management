@@ -1,0 +1,11 @@
+class User:
+    def __init__(self):
+        self.id: int
+        self.lastName: str
+        self.firtName: str
+        self.email: str
+        self.adress: str
+        self.birthday: str
+        self.sex: str
+        self.phone: str
+        self.acess: str
